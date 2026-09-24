@@ -64,6 +64,54 @@
       "description": "A surreal psychological horror mystery. Explore a shifting, liminal estate where rooms change layout based on the characters' inner guilt.",
       "starting_location": "Foyer of the Blackwood Estate",
       "download_url": "https://raw.githubusercontent.com/jofizcd/sow-data/main/stages_gateway/The_Whispering_Manor.json"
+    },
+    {
+      "id": "redaktionsschluss",
+      "title": "Redaktionsschluss",
+      "author": "SnowwhiteOakheart",
+      "description": "Zwei Stunden bis zum Andruck, und die Redaktion füllt sich mit Besuch, den niemand hier erwartet hätte. (Slice of Life, German-language.) Requires the Sakura Succubus 3 character set + Hiroki persona + lorebooks imported first (party: Cosmos, Ayu Ikue) - see the Soul Gateway and Lorebook Gateway tabs for the matching entries.",
+      "starting_location": "Redaktion der Sakura Daily, Großraumbüro am Fenster",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/redaktionsschluss.json"
+    },
+    {
+      "id": "der_wohltaetigkeitsball",
+      "title": "Der Wohltätigkeitsball",
+      "author": "SnowwhiteOakheart",
+      "description": "Auf dem Empfang verkauft jemand Fotos, die es nicht geben dürfte. {{user}} ist offiziell als Fotograf da. (Mystery & Noir, German-language.) Requires the Sakura Succubus 3 character set + Hiroki persona + lorebooks imported first (party: Marina Wakatsuki, Ayu Ikue) - see the Soul Gateway and Lorebook Gateway tabs for the matching entries.",
+      "starting_location": "Ballsaal eines Hotels in Minato, Empore über dem Saal",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/der_wohltaetigkeitsball.json"
+    },
+    {
+      "id": "wohnungskrieg",
+      "title": "Wohnungskrieg",
+      "author": "SnowwhiteOakheart",
+      "description": "Eine Fernbedienung, sechs Sukkuben, ein Sofa. Es ist Freitagabend, und niemand gibt nach. (Comedy, German-language.) Requires the Sakura Succubus 3 character set + Hiroki persona + lorebooks imported first (party: all six housemates) - see the Soul Gateway and Lorebook Gateway tabs for the matching entries.",
+      "starting_location": "Wohnzimmer der gemeinsamen Wohnung",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/wohnungskrieg.json"
+    },
+    {
+      "id": "audienz_im_thronsaal",
+      "title": "Audienz im Thronsaal",
+      "author": "SnowwhiteOakheart",
+      "description": "Das Reich schickt eine Gesandtschaft: Die Königin möge zurückkehren. Yue hat abgedankt - aber der Thron steht leer. (Epic Fantasy, German-language.) Requires the Sakura Succubus 3 character set + Hiroki persona + lorebooks imported first (party: Yue, Marina Wakatsuki, Hazel Williams) - see the Soul Gateway and Lorebook Gateway tabs for the matching entries.",
+      "starting_location": "Thronsaal des Palasts im Sukkuben-Reich",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/audienz_im_thronsaal.json"
+    },
+    {
+      "id": "ein_tee_zu_zweit",
+      "title": "Ein Tee zu zweit",
+      "author": "SnowwhiteOakheart",
+      "description": "Hifumi hat das Teezimmer hergerichtet, und heute will sie eine Frage stellen, die sie seit Monaten aufschiebt. (Romance, German-language.) Requires the Sakura Succubus 3 character set + Hiroki persona + lorebooks imported first (party: Hifumi Yamamoto) - see the Soul Gateway and Lorebook Gateway tabs for the matching entries.",
+      "starting_location": "Hifumis Teezimmer, Schiebetüren zum Garten",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/ein_tee_zu_zweit.json"
+    },
+    {
+      "id": "matchball",
+      "title": "Matchball",
+      "author": "SnowwhiteOakheart",
+      "description": "Hazels Finale. Auf der Tribüne ist ein Platz freigehalten, und sie sucht ihn zwischen jedem Aufschlag. (Slice of Life, German-language.) Requires the Sakura Succubus 3 character set + Hiroki persona + lorebooks imported first (party: Hazel Williams, Cosmos) - see the Soul Gateway and Lorebook Gateway tabs for the matching entries.",
+      "starting_location": "Centre Court einer Tennisanlage in Tokio, erste Reihe",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/matchball.json"
     }
   ]
 }

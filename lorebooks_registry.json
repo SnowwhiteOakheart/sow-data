@@ -63,6 +63,27 @@
       "description": "This lorebook covers countries, cities, currencies, approximate exchange rates, as well as maritime transport and information about Holo itself.",
       "entry_count": 7,
       "download_url": "https://raw.githubusercontent.com/jofizcd/sow-data/main/lorebooks_gateway/spice_and_wolf_lorebook.json"
+    },
+    {
+      "name": "Sakura Succubus 3 – Welt",
+      "author": "SnowwhiteOakheart",
+      "description": "World primer for Sakura Succubus 3: succubi living hidden among humans, the shared flat, the newspaper, secrecy and the household rules. German-language content.",
+      "entry_count": 10,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/lorebooks_gateway/sakura_succubus_3_world.json"
+    },
+    {
+      "name": "Sakura Succubus 3 – Figuren",
+      "author": "SnowwhiteOakheart",
+      "description": "Character-focused lore for Sakura Succubus 3: all six housemates, Hiroki, and the people around them. German-language content.",
+      "entry_count": 10,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/lorebooks_gateway/sakura_succubus_3_characters.json"
+    },
+    {
+      "name": "Sakura Succubus 3 – Orte",
+      "author": "SnowwhiteOakheart",
+      "description": "Location lore for Sakura Succubus 3: the shared flat, newsroom, cosplay cafe, boardroom, stage, tennis court, tea room, throne hall and more. German-language content.",
+      "entry_count": 9,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/lorebooks_gateway/sakura_succubus_3_locations.json"
     }
   ]
 }
