@@ -112,6 +112,102 @@
       "description": "Hazels Finale. Auf der Tribüne ist ein Platz freigehalten, und sie sucht ihn zwischen jedem Aufschlag. (Slice of Life, German-language.) Requires the Sakura Succubus 3 character set + Hiroki persona + lorebooks imported first (party: Hazel Williams, Cosmos) - see the Soul Gateway and Lorebook Gateway tabs for the matching entries.",
       "starting_location": "Centre Court einer Tennisanlage in Tokio, erste Reihe",
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/matchball.json"
+    },
+    {
+      "id": "episode1_anfaenger",
+      "title": "Kapitel 1: Anfänger",
+      "author": "SnowwhiteOakheart",
+      "description": "Eine Schachpartie gegen einen unbekannten Account reißt Sora, Shiro und Haru mitten aus der realen Welt - hinein nach Disboard, wo ein spielverliebter Gott namens Tet auf sie wartet und ihnen eine Welt ohne Krieg, aber voller Spiele verspricht. (Comedy, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: Sora, Shiro, Stephanie Dola).",
+      "starting_location": "Thronsaal von Elkia Castle, während eines improvisierten Glücksspielturniers",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode1_anfaenger.json"
+    },
+    {
+      "id": "episode2_herausforderer",
+      "title": "Kapitel 2: Herausforderer",
+      "author": "SnowwhiteOakheart",
+      "description": "Imanity - die Menschheit - ist auf eine einzige Stadt zusammengeschrumpft. Während Sora, Shiro und Haru noch die Regeln dieser neuen Welt begreifen, meldet sich bereits die erste ernsthafte Bedrohung für Stephanies Thron an: Chlammy Zell, unterstützt von den Elfen. (Comedy, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: Sora, Shiro, Stephanie Dola).",
+      "starting_location": "Ratssaal von Elkia Castle",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode2_herausforderer.json"
+    },
+    {
+      "id": "episode3_experte",
+      "title": "Kapitel 3: Experte",
+      "author": "SnowwhiteOakheart",
+      "description": "Chlammy Zell hat ihr Spiel gewählt: lebensgroßes, beseeltes Schach, bei dem jede Figur einen eigenen Willen besitzt. Was wie Taktik aussieht, ist in Wahrheit ein Kräftemessen um Moral, Führung - und um eine verbotene Magie, die im Verborgenen wirkt. (Epic Fantasy, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: Sora, Shiro, Stephanie Dola).",
+      "starting_location": "Ein magisch erschaffenes Schlachtfeld in Form eines gigantischen Schachbretts",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode3_experte.json"
+    },
+    {
+      "id": "episode4_grossmeister",
+      "title": "Kapitel 4: Großmeister",
+      "author": "SnowwhiteOakheart",
+      "description": "Die Schachschlacht eskaliert: Chlammy setzt ihre letzte, verbotene Karte ein - Gedankenkontrolle. Doch Sora hat eine eigene, subtilere Waffe: die Kunst der Verführung durch Worte allein. (Epic Fantasy, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: Sora, Shiro, Stephanie Dola).",
+      "starting_location": "Dasselbe gigantische Schachfeld, kurz vor der Entscheidung",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode4_grossmeister.json"
+    },
+    {
+      "id": "episode5_schwaches_feld",
+      "title": "Kapitel 5: Schwaches Feld",
+      "author": "SnowwhiteOakheart",
+      "description": "König und Königin von Elkia - und doch haben Sora und Shiro jegliche Regierungsarbeit vollständig auf Stephanie abgewälzt. Als sie die Geduld verliert, fordert sie Sora zu einer Partie Blackjack heraus, bei der mehr auf dem Spiel steht als Geld. (Comedy, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: Sora, Shiro, Stephanie Dola).",
+      "starting_location": "Ein kleines Kartenzimmer in Elkia Castle, spät am Abend",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode5_schwaches_feld.json"
+    },
+    {
+      "id": "episode6_interessant_jibril",
+      "title": "Kapitel 6: Interessant - Das Duell gegen Jibril",
+      "author": "SnowwhiteOakheart",
+      "description": "DAS zentrale Kapitel der Kampagne: Sora, Shiro und Haru fordern Jibril, eine über 6000 Jahre alte Flügel-Kriegerin und Hüterin allen Wissens, zu einem Spiel um ihre gesamte Bibliothek heraus - \"Materialisations-Shiritori\", bei dem jedes gültige Wort real wird. Ein einziger falscher Zug könnte das Ende von Blank bedeuten. (Epic Fantasy, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: Sora, Shiro, Jibril).",
+      "starting_location": "Die Große Nationalbibliothek von Elkia, tief in Jibrils privatem Lesesaal",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode6_interessant_jibril.json"
+    },
+    {
+      "id": "episode7_opfer",
+      "title": "Kapitel 7: Opfer",
+      "author": "SnowwhiteOakheart",
+      "description": "Auf der Suche nach einer Strategie gegen den Östlichen Bund stößt Sora auf eine erschütternde Wahrheit: Jede Rasse, die je gegen die Werbeasts verlor - auch Jibril selbst -, wurde ihrer Erinnerung an diese Niederlage magisch beraubt. Ohne Informationen droht Soras gesamte Strategie zu scheitern. (Mystery & Noir, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: Sora, Shiro, Jibril, Stephanie Dola).",
+      "starting_location": "Das private Archiv von Elkia Castle, spät in der Nacht",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode7_opfer.json"
+    },
+    {
+      "id": "episode8_falsches_ende",
+      "title": "Kapitel 8: Falsches Ende",
+      "author": "SnowwhiteOakheart",
+      "description": "Mithilfe der Aufzeichnungen von Stephanies Großvater durchschaut Sora den wahren Trick des Östlichen Bundes - und setzt Imanitys gesamte Souveränität als Einsatz, um sie formell herauszufordern. (Mystery & Noir, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: Sora, Shiro, Jibril, Stephanie Dola).",
+      "starting_location": "Die Botschaft des Östlichen Bundes in Elkia",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode8_falsches_ende.json"
+    },
+    {
+      "id": "episode9_himmelswandel",
+      "title": "Kapitel 9: Himmelswandel",
+      "author": "SnowwhiteOakheart",
+      "description": "Während Sora in einer Othello-Partie gegen Chlammy um seine eigene Existenz spielt, fordert Jibril Shiro zu einer Schachpartie heraus - Einsatz: Shiros Erinnerung an Sora selbst. (Horror, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: Sora, Shiro, Jibril, Stephanie Dola).",
+      "starting_location": "Eine stille Kammer hoch oben in Elkia Castle, ein Schachbrett zwischen zwei Stühlen",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode9_himmelswandel.json"
+    },
+    {
+      "id": "episode10_blaue_rose",
+      "title": "Kapitel 10: Blaue Rose",
+      "author": "SnowwhiteOakheart",
+      "description": "Mit Jibril, Stephanie, Chlammy und Fiel als vereintem Bündnis bereiten Sora, Shiro und Haru sich auf die entscheidende Konfrontation mit dem Östlichen Bund vor - doch zwischen Flügel und Elfen liegt noch immer die Last eines alten Krieges. (Slice of Life, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: + Chlammy Zell, Fiel Nirvalen).",
+      "starting_location": "Der Kriegsrat-Garten von Elkia Castle, unter blühenden Bäumen",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode10_blaue_rose.json"
+    },
+    {
+      "id": "episode11_riesentoeten",
+      "title": "Kapitel 11: Riesentöten",
+      "author": "SnowwhiteOakheart",
+      "description": "Der große Showdown gegen den Östlichen Bund beginnt: ein Vollimmersions-Ego-Shooter namens 'Love or Loved 2', in dem Liebeskugeln über den Sieg entscheiden. Blanks Gegnerin: das achtjährige Spielgenie Izuna Hatsuse. (Sci-Fi, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: + Chlammy Zell, Fiel Nirvalen).",
+      "starting_location": "Ein digitales Schlachtfeld irgendwo zwischen zerstörten Häuserzeilen, vollimmersiv erschaffen",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode11_riesentoeten.json"
+    },
+    {
+      "id": "episode12_regel_nummer_zehn",
+      "title": "Kapitel 12: Regel Nummer Zehn",
+      "author": "SnowwhiteOakheart",
+      "description": "Izunas Blutentfesselung droht, Blank endgültig in die Enge zu treiben - doch der entscheidende Schuss kommt von unerwarteter Seite. Season-Finale: Sieg über den Östlichen Bund, ein gewagter Münzwurf gegen die Schrein-Priesterin, und die Geburt des Commonwealth of Elkia. (Epic Fantasy, German-language, part of a 12-chapter No Game No Life campaign - see the other 'No Game No Life' scenes.) Requires the matching character cards + lorebooks + Haru persona imported first (party: + Chlammy Zell, Fiel Nirvalen).",
+      "starting_location": "Das digitale Schlachtfeld, kurz vor dem Ende, danach der Thronsaal des Östlichen Bundes",
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/stages_gateway/episode12_regel_nummer_zehn.json"
     }
   ]
 }

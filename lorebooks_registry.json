@@ -84,6 +84,27 @@
       "description": "Location lore for Sakura Succubus 3: the shared flat, newsroom, cosplay cafe, boardroom, stage, tennis court, tea room, throne hall and more. German-language content.",
       "entry_count": 9,
       "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/lorebooks_gateway/sakura_succubus_3_locations.json"
+    },
+    {
+      "name": "No Game No Life – Welt & Gebote",
+      "author": "SnowwhiteOakheart",
+      "description": "Core rules and premise of No Game No Life's Disboard: the Ten Pledges (verified against the official light novel text), Tet's origin, resource wagers and Blank's reputation. German-language content.",
+      "entry_count": 8,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/lorebooks_gateway/no_game_no_life_world.json"
+    },
+    {
+      "name": "No Game No Life – Rassen & Orte",
+      "author": "SnowwhiteOakheart",
+      "description": "The sixteen races of Disboard and key locations: Imanity, Flügel, Elf, Werebeast, Elkia, Avant Heim, Elven Gard, the Eastern Union. German-language content.",
+      "entry_count": 9,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/lorebooks_gateway/no_game_no_life_races_locations.json"
+    },
+    {
+      "name": "No Game No Life – Figuren",
+      "author": "SnowwhiteOakheart",
+      "description": "Quick-reference lore for the full No Game No Life cast plus lore-only figures: Tet, Riku Dola, Azril, the Eastern Union's Shrine Maiden. German-language content.",
+      "entry_count": 10,
+      "download_url": "https://raw.githubusercontent.com/SnowwhiteOakheart/sow-data/main/lorebooks_gateway/no_game_no_life_characters.json"
     }
   ]
 }
